@@ -11,7 +11,7 @@ int main(void)
 	while (*putch)
 	{
 		_putchar(*putch);
-		sh++;
+		putch++;
 	}
 	_putchar('\n');
 

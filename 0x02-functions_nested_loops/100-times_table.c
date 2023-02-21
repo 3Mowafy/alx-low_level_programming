@@ -10,4 +10,8 @@ void print_times_table(int n)
 	{
 		return (0);
 	}
+	else
+	{
+		_putchar('\n');
+	}
 }
